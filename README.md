@@ -1,2 +1,2 @@
 # C-DataStructure-Homework
-Data structures assignments written in C programming language.
+Data structures homework written in C programming language.
