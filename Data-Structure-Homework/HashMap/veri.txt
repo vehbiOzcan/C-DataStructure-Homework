@@ -1,0 +1,7 @@
+123 Fatma 14
+125 Samet 62
+333 Yucel 54
+888 Ali 24
+345 tayfun 55
+291 emel 75
+587 vehbi 82
